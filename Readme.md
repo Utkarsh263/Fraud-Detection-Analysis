@@ -133,6 +133,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 **Built with ❤️ using Python, SQL, and Machine Learning**  
 📅 *Version 1.0.0 — Last Updated: October 2025*
 ````
-
-
-
