@@ -1,0 +1,10 @@
+metric,value
+Total Transactions,10000.0
+Fraudulent Transactions,400.0
+Fraud Rate %,4.0
+Model Accuracy,93.67
+ROC-AUC Score,0.7867
+True Positives,72.0
+False Positives,142.0
+True Negatives,2738.0
+False Negatives,48.0
