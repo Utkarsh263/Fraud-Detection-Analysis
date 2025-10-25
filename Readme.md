@@ -56,8 +56,8 @@ It combines:
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/fraud-detection-system.git
-cd fraud-detection-system
+git clone https://github.com/Utkarsh263/Fraud-Detection-Analysis.git
+cd Fraud-Detection-Analysis
 
 # Install dependencies
 pip install -r requirements.txt
@@ -133,5 +133,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 **Built with ❤️ using Python, SQL, and Machine Learning**  
 📅 *Version 1.0.0 — Last Updated: October 2025*
 ````
+
 
 
